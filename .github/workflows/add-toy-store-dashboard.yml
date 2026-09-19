@@ -32,3 +32,5 @@ jobs:
             git commit -m "Add Toy Store dashboard image"
             git push
           fi
+
+# one-off trigger
