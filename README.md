@@ -4,7 +4,7 @@ A Power BI case study analysing e-commerce performance across **orders, website 
 
 [View the full portfolio case study](https://mayfuns.github.io/mariam-analytics-portfolio/toy-store.html)
 
-![Toy Store E-Commerce dashboard](01_dashboard/toy-store-dashboard.png)
+![Toy Store E-Commerce dashboard](01_dashboard/toy-store-ecommerce-dashboard.png)
 
 ## Project overview
 
